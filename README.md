@@ -1,1 +1,1 @@
-#Hate Text Recognition system
+# Hate Text Recognition system
